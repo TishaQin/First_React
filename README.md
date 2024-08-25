@@ -48,3 +48,7 @@ export default tseslint.config({
   },
 })
 ```
+# 安装步骤
+npm create vite@latest
+pnpm install
+pnpm install react-redux react-router-dom
